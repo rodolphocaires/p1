@@ -1,0 +1,17 @@
+/* Empty. Add your own CSS if you like */
+.item {
+  border-color: #eaeaea;
+}
+.icon-accessory.calm {
+  color: #24C7B1;
+}
+
+.avatar-big > img:first-child {
+  top: 10px;
+  left: 10px;
+  max-width: 50px;
+  max-height: 50px;
+}
+.royal-bg {
+  color: #fff !important;
+}
